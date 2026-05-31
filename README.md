@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Моя статистика GitHub:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MordecaiBJ&show_icons=true&theme=radial" alt="GitHub Stats" width="400"/>
-</p>
-
 ### 📫 Как со мной связаться:
 - Telegram: [@MordecaiBJ](https://t.me/MordecaiBJ)
 - Мой сайт-портфолио: [MordecaiBJ.github.io](https://MordecaiBJ.github.io)
